@@ -76,3 +76,16 @@ Options explained:
 - If you encounter permission issues, ensure proper file permissions and ownership.
 - For configuration errors, double-check your snort.conf and local.rules files.
 - Verify that you're using the correct network interface in your Snort commands.
+
+![IP config on Snort](https://github.com/user-attachments/assets/bf93f296-7561-439a-a05f-3bf1e6e54048)
+![Promisc On Bridge mode adapter](https://github.com/user-attachments/assets/76ea599b-85ab-470a-9ba4-1cb8b629a4d1)
+![check Snort config file](https://github.com/user-attachments/assets/3cc05751-71a1-46af-8826-e2eb1bd36595)
+![Custom rules](https://github.com/user-attachments/assets/bd7b7a9b-e4ba-4aa3-9b35-1b8a5d330de2)
+![Ping detection rule](https://github.com/user-attachments/assets/8916dd52-1501-4a25-96f7-c8cccccbc909)
+![Snort in Ubuntu shows ping log](https://github.com/user-attachments/assets/0c45c9c6-89d4-4676-9269-2243be4e02bf)
+
+
+
+
+
+  
