@@ -37,7 +37,7 @@ sudo vim /etc/snort/snort.conf
 ```
 - Setting up your home network range in configuration file. 
 ```
-ipvar HOME_NET [10.0.0.0/24,192.168.0.0/24] #[Snort network, Another home network]
+ipvar HOME_NET [10.0.0.0/24,192.168.0.0/24]
 ```
 Adjust the IP ranges according to your network setup.
 
